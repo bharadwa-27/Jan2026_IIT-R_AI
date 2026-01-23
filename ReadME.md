@@ -1,3 +1,6 @@
-# Data Science & AI 
+IIT X CloudX
 
-Starting Course
+
+
+Data Science and AI Course
+
